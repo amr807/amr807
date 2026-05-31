@@ -2,43 +2,33 @@
 
 # Hi, I'm Amr
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Database+Architect;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Database+Architect" />
 
-Building scalable applications with modern backend architectures and high-performance databases.
+Building scalable web applications and backend systems.
 
 <br>
 
-<img src="https://img.shields.io/github/followers/amr809?style=for-the-badge&label=Followers" />
-<img src="https://img.shields.io/github/stars/amr809?affiliations=OWNER&style=for-the-badge&label=Stars" />
-<img src="https://komarev.com/ghpvc/?username=amr809&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/amr809?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=amr809&style=flat-square" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Design-Architecture-0A66C2?style=for-the-badge" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amr809&show_icons=true&hide_border=true&rank_icon=github" />
 
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amr809&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/username=amr809&layout=compact&hide_border=true" />
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api username=amr809&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr809&layout=compact&hide_border=true" />
 
 <br><br>
 
 <a href="mailto:amrsarhan1001@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  Gmail
 </a>
-
+•
 <a href="https://www.linkedin.com/in/amr-sarhan-7aa4ba2b9">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  LinkedIn
 </a>
 
 </div>
