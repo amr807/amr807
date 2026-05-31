@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Database+Architect" />
 
-Building scalable web applications and backend systems.
-
+I love building things that people use.
 <br>
 <img src="https://img.shields.io/badge/Focus-Backend_Engineering-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Database-PostgreSQL_&_Oracle-blue?style=flat-square" />
