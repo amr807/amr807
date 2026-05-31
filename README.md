@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Amr 👋
+# Hi, I'm Amr 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Database+Architect" />
 
@@ -12,7 +12,6 @@ Building scalable web applications and backend systems.
 <img src="https://img.shields.io/badge/Currently-Building_SaaS-blue?style=flat-square" />
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres&theme=dark" />
 
 <br><br>
 
