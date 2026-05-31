@@ -12,10 +12,10 @@ Building scalable web applications and backend systems.
 <img src="https://img.shields.io/badge/Currently-Building_SaaS-blue?style=flat-square" />
 <br><br>
 
-
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres&theme=dk" />
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amr809&show_icons=true&hide_border=true&rank_icon=github" />
+
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr809&layout=compact&hide_border=true" />
 
