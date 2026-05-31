@@ -12,7 +12,7 @@ Building scalable web applications and backend systems.
 <img src="https://img.shields.io/badge/Currently-Building_SaaS-blue?style=flat-square" />
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres&theme=dk" />
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres&theme=dark" />
 <br><br>
 
 
