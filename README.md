@@ -13,13 +13,15 @@ Building scalable web applications and backend systems.
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres" />
+<!-- Added theme=dark to ensure icons pop perfectly on any background -->
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres&theme=dark" />
 
 <br><br>
 
+<!-- Fixed Layout Settings -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=amr809&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/username=amr809&layout=compact&hide_border=true" />
+<!-- Fixed missing '?' in the URL path here -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr809&layout=compact&hide_border=true" />
 
 <br><br>
 
