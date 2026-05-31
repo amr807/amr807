@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Amr
+# Hi, I'm Amr 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Database+Architect" />
 
@@ -13,15 +13,18 @@ Building scalable web applications and backend systems.
 
 <br><br>
 
-<!-- Added theme=dark to ensure icons pop perfectly on any background -->
 <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres&theme=dark" />
 
 <br><br>
 
-<!-- Fixed Layout Settings -->
+<!-- Main Stats Dashboard -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=amr809&show_icons=true&hide_border=true&rank_icon=github" />
-<!-- Fixed missing '?' in the URL path here -->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr809&layout=compact&hide_border=true" />
+
+<br>
+
+<!-- Total Commits Animated Badge Dashboard -->
+<img src="https://github-readme-stats.vercel.app/api/aggregate-widgets?username=amr809&hide_border=true" />
 
 <br><br>
 
