@@ -89,7 +89,7 @@ My work combines software engineering principles with practical product developm
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amr809&hide_border=true" />
 
 </p>
 
@@ -99,7 +99,7 @@ My work combines software engineering principles with practical product developm
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&hide_border=true&radius=12" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amr809&bg_color=00000000&hide_border=true&radius=12" />
 
 </p>
 
@@ -120,11 +120,11 @@ Creating Scalable Backend Architectures
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://github.com/amr807/amr807">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amrsarhan1001@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
