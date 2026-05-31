@@ -7,10 +7,9 @@
 Building scalable web applications and backend systems.
 
 <br>
-
-<img src="https://img.shields.io/github/followers/amr809?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=amr809&style=flat-square" />
-
+<img src="https://img.shields.io/badge/Focus-Backend_Engineering-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL_&_Oracle-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Currently-Building_SaaS-blue?style=flat-square" />
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres&theme=dark" />
