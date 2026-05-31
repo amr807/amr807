@@ -27,8 +27,7 @@ Building scalable web applications and backend systems.
 <br>
 
 <!-- Total Commits Animated Badge Dashboard -->
-<img src="https://github-readme-stats.vercel.app/api/aggregate-widgets?username=amr809&hide_border=true" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=amr809&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" />
 <br><br>
 
 
