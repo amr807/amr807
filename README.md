@@ -29,8 +29,7 @@ Building scalable applications with modern backend architectures and high-perfor
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amr809&theme=github_dark" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=amr809&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" />
 <br><br>
 
 <a href="mailto:amrsarhan1001@gmail.com">
