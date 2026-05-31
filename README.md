@@ -16,9 +16,13 @@ Building scalable web applications and backend systems.
 
 <br><br>
 
-<!-- Main Stats Dashboard -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=amr809&show_icons=true&hide_border=true&rank_icon=github" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr809&layout=compact&hide_border=true" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amr809&theme=github-dark&hide_border=true&radius=12" />
 
 <br>
 
