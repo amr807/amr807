@@ -28,12 +28,12 @@ Building scalable web applications and backend systems.
 
 <br><br>
 
+
 <a href="mailto:amrsarhan1001@gmail.com">
-  Gmail
-</a>
-•
-<a href="https://www.linkedin.com/in/amr-sarhan-7aa4ba2b9">
-  LinkedIn
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
+<a href="https://www.linkedin.com/in/amr-sarhan-7aa4ba2b9">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 </div>
