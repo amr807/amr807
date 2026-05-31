@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amr
+# Hi Iam Amr
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Database+Architect;Building+Scalable+Systems" />
 
@@ -64,7 +64,9 @@ Building scalable applications with modern backend architectures, high-performan
 <a href="mailto:amrsarhan1001@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
-
+<a href="https://www.linkedin.com/in/amr-sarhan-7aa4ba2b9/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 </p>
 
 ---
