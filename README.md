@@ -21,14 +21,7 @@ Building scalable web applications and backend systems.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr809&layout=compact&hide_border=true" />
 
 <br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amr809&theme=github-dark&hide_border=true&radius=100" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amr809&theme=github_dark" />
-<br><br>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amr809&theme=github-dark&hide_border=true" />
 
 <a href="mailto:amrsarhan1001@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
