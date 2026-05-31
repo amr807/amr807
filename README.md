@@ -22,7 +22,7 @@ Building scalable web applications and backend systems.
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amr809&theme=github-dark&hide_border=true&radius=12" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amr809&theme=github-dark&hide_border=true&radius=100" />
 
 <br>
 
