@@ -28,4 +28,3 @@ I love building things that people use.
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </div>
-make profile look more
