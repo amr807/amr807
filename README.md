@@ -17,7 +17,10 @@
 <br/><br/>
 
 <!-- GitHub Stats -->
-<img src="./profile/stats.svg" width="495" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=amr807&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr807&layout=compact&theme=github_dark&hide_border=true" height="165" />
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr809&layout=compact&theme=github_dark&hide_border=true" height="165" />
 
