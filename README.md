@@ -19,14 +19,10 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amr807&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr807&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=amr807&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+
+
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amr807&theme=tokyo-night&hide_border=true" />
 
