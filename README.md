@@ -12,8 +12,8 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,postgres,go&theme=dark" />
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="48" />
+<img src="https://skills.syvixor.com/api/icons?i=typescript,nodejs,go,react,postgres,oracle&theme=dark" />
+
 <br/><br/>
 
 <div align="center">
