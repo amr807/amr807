@@ -12,8 +12,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,nextjs,postgres,oracle&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,postgres,oracle,go&theme=dark" />
 <br/><br/>
 
 <div align="center">
