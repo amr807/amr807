@@ -12,7 +12,8 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,postgres,oracle,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,postgres,go&theme=dark" />
+<img src="https://cdn.simpleicons.org/oracle/F80000" height="48" />
 <br/><br/>
 
 <div align="center">
