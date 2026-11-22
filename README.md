@@ -18,9 +18,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amr807&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="70%" src="https://streak-stats.demolab.com?user=amr807&theme=tokyonight&hide_border=true" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amr807&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=amr807&theme=tokyonight&hide_border=true" />
 
 
 
