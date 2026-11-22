@@ -36,15 +36,6 @@
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=amr807&theme=github-dark-blue&hide_border=true" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amr807&theme=github-dark&hide_border=true" />
-
-<br/><br/>
 
 <a href="mailto:amrsarhan1001@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
