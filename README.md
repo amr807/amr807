@@ -6,9 +6,6 @@
 
 <p>I love building things that people use.</p>
 
-<img src="https://img.shields.io/badge/Focus-Backend_Engineering-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL_&_Oracle-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Currently-Building_SaaS-blue?style=flat-square" />
 
 <br/><br/>
 
