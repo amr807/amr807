@@ -7,8 +7,6 @@
 <p>I love building things that people use.</p>
 
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=typescript,nodejs,go,nestjs,postgres&theme=dark" />
 <img src="https://skills.syvixor.com/api/icons?i=oracle" height="48" />
 <br/><br/>
